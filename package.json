@@ -18,6 +18,7 @@
     "connected-react-router": "4.5.0",
     "react": "16.6.0",
     "react-dom": "16.6.0",
+    "react-hot-loader": "^4.3.11",
     "react-redux": "5.1.0",
     "react-router": "4.3.1",
     "react-router-dom": "4.3.1",
@@ -25,5 +26,11 @@
     "redux-thunk": "2.3.0",
     "sanitize.css": "7.0.3",
     "serve": "10.0.2"
-  }
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
