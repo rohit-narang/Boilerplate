@@ -5,7 +5,7 @@ import styles from './Header.css';
     return (
         <div className={styles.header}>
       <div className={styles.content}>
-        <h1 className={styles['site-title']}>
+        <h1 className={styles['site-title']}> Header
         </h1>
     
       </div>
